@@ -12,7 +12,7 @@
 Use any C compilator (gcc, clang...)
 
 ```sh
-cd IPGen
+cd IPGenerator
 gcc main.c -o IPGen
 ```
 ## License
